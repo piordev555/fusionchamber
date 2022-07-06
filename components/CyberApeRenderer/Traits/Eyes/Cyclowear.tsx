@@ -1,0 +1,184 @@
+import { NextComponentType } from "next";
+
+const Cyclowear: NextComponentType = () => {
+  return (
+    <svg
+      version="1.1"
+      viewBox="0 0 48 48"
+      width={48}
+      height={48}
+      preserveAspectRatio="xMidYMid meet"
+      xmlns="http://www.w3.org/2000/svg"
+      shapeRendering="crispEdges"
+    >
+      <rect x="10" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="11" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="12" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="13" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="14" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="15" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="16" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="17" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="18" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="19" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="20" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="21" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="22" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="23" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="24" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="25" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="26" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="27" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="28" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="29" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="30" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="31" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="32" y="17" width="1" height="1" fill="#241E43" />
+      <rect x="10" y="18" width="1" height="1" fill="#241E43" />
+      <rect x="11" y="18" width="1" height="1" fill="#E7F3FF" />
+      <rect x="12" y="18" width="1" height="1" fill="#563057" />
+      <rect x="13" y="18" width="1" height="1" fill="#563057" />
+      <rect x="14" y="18" width="1" height="1" fill="#563057" />
+      <rect x="15" y="18" width="1" height="1" fill="#563057" />
+      <rect x="16" y="18" width="1" height="1" fill="#563057" />
+      <rect x="17" y="18" width="1" height="1" fill="#563057" />
+      <rect x="18" y="18" width="1" height="1" fill="#563057" />
+      <rect x="19" y="18" width="1" height="1" fill="#563057" />
+      <rect x="20" y="18" width="1" height="1" fill="#563057" />
+      <rect x="21" y="18" width="1" height="1" fill="#563057" />
+      <rect x="22" y="18" width="1" height="1" fill="#563057" />
+      <rect x="23" y="18" width="1" height="1" fill="#563057" />
+      <rect x="24" y="18" width="1" height="1" fill="#563057" />
+      <rect x="25" y="18" width="1" height="1" fill="#563057" />
+      <rect x="26" y="18" width="1" height="1" fill="#563057" />
+      <rect x="27" y="18" width="1" height="1" fill="#563057" />
+      <rect x="28" y="18" width="1" height="1" fill="#E7F3FF" />
+      <rect x="29" y="18" width="1" height="1" fill="#79326B" />
+      <rect x="30" y="18" width="1" height="1" fill="#402747" />
+      <rect x="31" y="18" width="1" height="1" fill="#402747" />
+      <rect x="32" y="18" width="1" height="1" fill="#241E43" />
+      <rect x="33" y="18" width="1" height="1" fill="#241E43" />
+      <rect x="34" y="18" width="1" height="1" fill="#241E43" />
+      <rect x="10" y="19" width="1" height="1" fill="#241E43" />
+      <rect x="11" y="19" width="1" height="1" fill="#3E2644" />
+      <rect x="12" y="19" width="1" height="1" fill="#3E2644" />
+      <rect x="13" y="19" width="1" height="1" fill="#3E2644" />
+      <rect x="14" y="19" width="1" height="1" fill="#3E2644" />
+      <rect x="15" y="19" width="1" height="1" fill="#3E2644" />
+      <rect x="16" y="19" width="1" height="1" fill="#3E2644" />
+      <rect x="17" y="19" width="1" height="1" fill="#3E2644" />
+      <rect x="18" y="19" width="1" height="1" fill="#3E2644" />
+      <rect x="19" y="19" width="1" height="1" fill="#3E2644" />
+      <rect x="20" y="19" width="1" height="1" fill="#3E2644" />
+      <rect x="21" y="19" width="1" height="1" fill="#3E2644" />
+      <rect x="22" y="19" width="1" height="1" fill="#3E2644" />
+      <rect x="23" y="19" width="1" height="1" fill="#3E2644" />
+      <rect x="24" y="19" width="1" height="1" fill="#3E2644" />
+      <rect x="25" y="19" width="1" height="1" fill="#3E2644" />
+      <rect x="26" y="19" width="1" height="1" fill="#3E2644" />
+      <rect x="27" y="19" width="1" height="1" fill="#3E2644" />
+      <rect x="28" y="19" width="1" height="1" fill="#3E2644" />
+      <rect x="29" y="19" width="1" height="1" fill="#79326B" />
+      <rect x="30" y="19" width="1" height="1" fill="#402747" />
+      <rect x="31" y="19" width="1" height="1" fill="#402747" />
+      <rect x="32" y="19" width="1" height="1" fill="#241E43" />
+      <rect x="33" y="19" width="1" height="1" fill="#402747" />
+      <rect x="34" y="19" width="1" height="1" fill="#241E43" />
+      <rect x="10" y="20" width="1" height="1" fill="#241E43" />
+      <rect x="11" y="20" width="1" height="1" fill="#563057" />
+      <rect x="12" y="20" width="1" height="1" fill="#563057" />
+      <rect x="13" y="20" width="1" height="1" fill="#CF0000" />
+      <rect x="14" y="20" width="1" height="1" fill="#CF0000" />
+      <rect x="15" y="20" width="1" height="1" fill="#CF0000" />
+      <rect x="16" y="20" width="1" height="1" fill="#CF0000" />
+      <rect x="17" y="20" width="1" height="1" fill="#CF0000" />
+      <rect x="18" y="20" width="1" height="1" fill="#CF0000" />
+      <rect x="19" y="20" width="1" height="1" fill="#CF0000" />
+      <rect x="20" y="20" width="1" height="1" fill="#CF0000" />
+      <rect x="21" y="20" width="1" height="1" fill="#CF0000" />
+      <rect x="22" y="20" width="1" height="1" fill="#CF0000" />
+      <rect x="23" y="20" width="1" height="1" fill="#CF0000" />
+      <rect x="24" y="20" width="1" height="1" fill="#CF0000" />
+      <rect x="25" y="20" width="1" height="1" fill="#CF0000" />
+      <rect x="26" y="20" width="1" height="1" fill="#CF0000" />
+      <rect x="27" y="20" width="1" height="1" fill="#563057" />
+      <rect x="28" y="20" width="1" height="1" fill="#563057" />
+      <rect x="29" y="20" width="1" height="1" fill="#79326B" />
+      <rect x="30" y="20" width="1" height="1" fill="#402747" />
+      <rect x="31" y="20" width="1" height="1" fill="#402747" />
+      <rect x="32" y="20" width="1" height="1" fill="#241E43" />
+      <rect x="33" y="20" width="1" height="1" fill="#241E43" />
+      <rect x="34" y="20" width="1" height="1" fill="#241E43" />
+      <rect x="10" y="21" width="1" height="1" fill="#241E43" />
+      <rect x="11" y="21" width="1" height="1" fill="#E7F3FF" />
+      <rect x="12" y="21" width="1" height="1" fill="#3E2644" />
+      <rect x="13" y="21" width="1" height="1" fill="#3E2644" />
+      <rect x="14" y="21" width="1" height="1" fill="#3E2644" />
+      <rect x="15" y="21" width="1" height="1" fill="#3E2644" />
+      <rect x="16" y="21" width="1" height="1" fill="#3E2644" />
+      <rect x="17" y="21" width="1" height="1" fill="#3E2644" />
+      <rect x="18" y="21" width="1" height="1" fill="#3E2644" />
+      <rect x="19" y="21" width="1" height="1" fill="#3E2644" />
+      <rect x="20" y="21" width="1" height="1" fill="#3E2644" />
+      <rect x="21" y="21" width="1" height="1" fill="#3E2644" />
+      <rect x="22" y="21" width="1" height="1" fill="#3E2644" />
+      <rect x="23" y="21" width="1" height="1" fill="#3E2644" />
+      <rect x="24" y="21" width="1" height="1" fill="#3E2644" />
+      <rect x="25" y="21" width="1" height="1" fill="#3E2644" />
+      <rect x="26" y="21" width="1" height="1" fill="#3E2644" />
+      <rect x="27" y="21" width="1" height="1" fill="#3E2644" />
+      <rect x="28" y="21" width="1" height="1" fill="#E7F3FF" />
+      <rect x="29" y="21" width="1" height="1" fill="#79326B" />
+      <rect x="30" y="21" width="1" height="1" fill="#402747" />
+      <rect x="31" y="21" width="1" height="1" fill="#402747" />
+      <rect x="32" y="21" width="1" height="1" fill="#241E43" />
+      <rect x="11" y="22" width="1" height="1" fill="#241E43" />
+      <rect x="12" y="22" width="1" height="1" fill="#563057" />
+      <rect x="13" y="22" width="1" height="1" fill="#563057" />
+      <rect x="14" y="22" width="1" height="1" fill="#563057" />
+      <rect x="15" y="22" width="1" height="1" fill="#563057" />
+      <rect x="16" y="22" width="1" height="1" fill="#563057" />
+      <rect x="17" y="22" width="1" height="1" fill="#563057" />
+      <rect x="18" y="22" width="1" height="1" fill="#241E43" />
+      <rect x="19" y="22" width="1" height="1" fill="#241E43" />
+      <rect x="20" y="22" width="1" height="1" fill="#241E43" />
+      <rect x="21" y="22" width="1" height="1" fill="#241E43" />
+      <rect x="22" y="22" width="1" height="1" fill="#241E43" />
+      <rect x="23" y="22" width="1" height="1" fill="#563057" />
+      <rect x="24" y="22" width="1" height="1" fill="#563057" />
+      <rect x="25" y="22" width="1" height="1" fill="#563057" />
+      <rect x="26" y="22" width="1" height="1" fill="#563057" />
+      <rect x="27" y="22" width="1" height="1" fill="#563057" />
+      <rect x="28" y="22" width="1" height="1" fill="#79326B" />
+      <rect x="29" y="22" width="1" height="1" fill="#402747" />
+      <rect x="30" y="22" width="1" height="1" fill="#402747" />
+      <rect x="31" y="22" width="1" height="1" fill="#241E43" />
+      <rect x="12" y="23" width="1" height="1" fill="#241E43" />
+      <rect x="13" y="23" width="1" height="1" fill="#3E2644" />
+      <rect x="14" y="23" width="1" height="1" fill="#3E2644" />
+      <rect x="15" y="23" width="1" height="1" fill="#3E2644" />
+      <rect x="16" y="23" width="1" height="1" fill="#402747" />
+      <rect x="17" y="23" width="1" height="1" fill="#241E43" />
+      <rect x="23" y="23" width="1" height="1" fill="#241E43" />
+      <rect x="24" y="23" width="1" height="1" fill="#3E2644" />
+      <rect x="25" y="23" width="1" height="1" fill="#3E2644" />
+      <rect x="26" y="23" width="1" height="1" fill="#3E2644" />
+      <rect x="27" y="23" width="1" height="1" fill="#79326B" />
+      <rect x="28" y="23" width="1" height="1" fill="#402747" />
+      <rect x="29" y="23" width="1" height="1" fill="#402747" />
+      <rect x="30" y="23" width="1" height="1" fill="#241E43" />
+      <rect x="13" y="24" width="1" height="1" fill="#241E43" />
+      <rect x="14" y="24" width="1" height="1" fill="#241E43" />
+      <rect x="15" y="24" width="1" height="1" fill="#241E43" />
+      <rect x="16" y="24" width="1" height="1" fill="#241E43" />
+      <rect x="24" y="24" width="1" height="1" fill="#241E43" />
+      <rect x="25" y="24" width="1" height="1" fill="#241E43" />
+      <rect x="26" y="24" width="1" height="1" fill="#241E43" />
+      <rect x="27" y="24" width="1" height="1" fill="#241E43" />
+      <rect x="28" y="24" width="1" height="1" fill="#241E43" />
+      <rect x="29" y="24" width="1" height="1" fill="#241E43" />
+    </svg>
+  );
+};
+
+export default Cyclowear;

@@ -1,0 +1,2 @@
+export const BLOOMING_EFFECT_ALPHA = 0.15;
+export const BLOOMING_EFFECT_RADIUS = 500;
